@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.framer-ryeb{
+  bottom: 50px;
+    flex: none;
+    height: auto;
+    left: 50%;
+    position: fixed;
+    transform: translate(-50%);
+    width: auto;
+    z-index: 3;
+    transform: translateX(-50%);
+}
+
+.ssvariant{
+  width: fit-content;
+    height: fit-content;
+}
+.framer-lrd1k3{
+  align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+    height: 68px;
+    justify-content: center;
+    overflow: visible;
+    padding: 10px;
+    position: relative;
+    width: min-content;
+    background-color: rgba(255, 255, 255, 0.63);
+    opacity: 1;
+    border-radius: 18px;
+}
+.framer-container{
+  opacity: 1;
+  flex: none;
+  height: auto;
+  position: relative;
+  width: auto;
+}
+.framer-container2{
+  display: contents;
+}
+.framer-container3{
+  opacity: 1;
+  border-radius: 13px;
+  height: 94px;
+  position: relative;
+  width: 50px;
+}
+.framer-a{
+  background-color: rgba(255, 255, 255);
+  transform: translate(-50% -50%);
+  border-radius: 26%;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 0px;
+  transform-origin: 50% 50% 0px;
+  will-change: auto;
+  align-content: center;
+    align-items: center;
+    display: flex;
+    flex: none;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+    height: min-content;
+    justify-content: center;
+    left: 50%;
+    overflow: visible;
+    padding: 10px;
+    position: absolute;
+    text-decoration: none;
+    top: 50%;
+    width: min-content;
+}
+
+.framer-a1{
+  transform: none;
+  transform-origin: 50% 50% 0px;
+  flex: none;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+.framer-a11{
+  outline: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    --extracted-r6o4lv: rgb(255, 255, 255);
+    --framer-link-text-color: rgb(0, 153, 255);
+    --framer-link-text-decoration: underline;
+    --framer-paragraph-spacing: 0px;
+    opacity: 0;
+    transform: translateX(-50%);
+    transform-origin: 50% 50% 0px;
+    will-change: auto;
+    bottom: -35px;
+    flex: none;
+    height: auto;
+    left: 50%;
+    position: absolute;
+    white-space: pre;
+    width: auto;
+}
+.fremix{
+  --font-selector: SW50ZXItTWVkaXVt;
+    --framer-font-family: "Inter-Medium", "Inter", sans-serif;
+    --framer-font-size: 14px;
+    --framer-font-weight: 500;
+    --framer-text-color: var(--extracted-r6o4lv, rgb(255, 255, 255));
+    font-family: var(--framer-blockquote-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif));
+    font-style: var(--framer-blockquote-font-style, var(--framer-font-style, normal));
+    font-weight: var(--framer-blockquote-font-weight, var(--framer-font-weight, 400));
+    color: var(--framer-blockquote-text-color, var(--framer-text-color, #000));
+    font-size: calc(var(--framer-blockquote-font-size, var(--framer-font-size, 16px))* var(--framer-font-size-scale, 1));
+    letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+    text-transform: var(--framer-blockquote-text-transform, var(--framer-text-transform, none));
+    text-decoration: var(--framer-blockquote-text-decoration, var(--framer-text-decoration, none));
+    line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+    text-align: var(--framer-blockquote-text-alignment, var(--framer-text-alignment, start));
+    -webkit-text-stroke-width: var(--framer-text-stroke-width, initial);
+    -webkit-text-stroke-color: var(--framer-text-stroke-color, initial);
+    font-feature-settings: var(--framer-font-open-type-features, initial);
+    text-wrap: var(--framer-text-wrap-override, var(--framer-text-wrap));
+    margin: 0px;
+    padding: 0px;
+
+}
